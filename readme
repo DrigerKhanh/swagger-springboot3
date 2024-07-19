@@ -1,0 +1,8 @@
+Swagger is not supported in Spring boot version 3, therefore, we need to find another way
+
+Document: https://bell-sw.com/blog/documenting-rest-api-with-swagger-in-spring-boot-3/
+
+- To access document:
+springdoc.api-docs.path=/api-docs
+- To access swagger-ui
+http://localhost:8080/swagger-ui/index.html
